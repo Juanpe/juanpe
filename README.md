@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Juanpe' github stats](https://github-readme-stats.vercel.app/api?username=juanpe&count_private=true&show_icons=true)
+
+
 <!--
 **Juanpe/juanpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

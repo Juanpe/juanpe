@@ -2,7 +2,7 @@
 
 I'm **Juanpe Catalán**, I'm a **Software Engineer** from **Sevilla**, in the South of Spain. I've been developing apps for **more than 10 years**. During this time I've worked on many types of projects such as B2C and B2B apps, games, SDKs...
 
-I've have an application published in the AppStore. I'm the co-creator of [**Talks&Coffee**](https://apps.apple.com/es/app/talks-coffee/id1466240063). It contains videos of the most important conferences and events related to the iOS world.
+I have an application published in the AppStore. I'm the co-creator of [**Talks&Coffee**](https://apps.apple.com/es/app/talks-coffee/id1466240063). It contains videos of the most important conferences and events related to the iOS world.
 
 ##### BIO
 

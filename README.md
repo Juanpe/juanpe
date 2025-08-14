@@ -6,7 +6,7 @@ I have an application published in the AppStore. I'm the co-creator of [**Talks&
 
 ##### BIO
 
-- 🏢 I'm currently working at **Domestika**
+- 🏢 I'm currently working at **Goodnotes**
 - 🌱 Learning all about **Software Design**
 - ❤️ **Open Source** world
 
